@@ -17,11 +17,11 @@ I'm open to a wide range of IT roles and motivated to contribute to real-world p
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, Java, C, SQL, HTML, CSS, PHP  
+**Programming:** Python, Java, C, SQL, HTML, CSS, PHP, Rust  
 **Systems:** Linux, Windows, Active Directory  
 **Networking:** TCP/IP, DNS, DHCP, VLAN, GNS3  
-**Cybersecurity:** Nmap, Burp Suite, Wireshark, IAM  
-**Tools:** Git, GitHub, SQL databases
+**Cybersecurity:** Nmap, Burp Suite, Wireshark, IAM, Weka  
+**Tools:** Git, GitHub, SQL databases,
 
 ## 💼 Experience
 
